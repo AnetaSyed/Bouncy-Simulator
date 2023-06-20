@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+  }
+td {
+    width: 30px;
+    height: 30px;
+  }
+.border {
+    background-color: black;
+  }
+.game-field {
+    background-color: white;
+  }
+.temporary-field {
+    background-color: gray;
+
+  }
+.ball {
+    border-radius: 100px;
+    background-color: red;
+  }
